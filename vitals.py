@@ -1,0 +1,1 @@
+#functions for all the sensors/Sensor Interfacing
